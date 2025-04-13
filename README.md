@@ -1,8 +1,4 @@
-Here is the full `README.md` **as plain text**, ready to copy directly into your GitHub repo:
-
----
-
-# Hybrid PEFT Fine-Tuning for GPT-2 (LoRA + Prefix-Tuning)
+# ECE 57000 - Artificial Intelligence | Hybrid PEFT Fine-Tuning for GPT-2 (LoRA + Prefix-Tuning)
 
 This project demonstrates a hybrid parameter-efficient fine-tuning (PEFT) approach for adapting GPT-2 Medium to an assistant-style dialogue generation task. It combines two efficient fine-tuning methods—LoRA and Prefix-Tuning—to achieve strong adaptation with under 1% of model parameters updated.
 
@@ -27,7 +23,7 @@ You can either download and run the notebook locally, or upload it to Google Col
 ### Option 1: Run Locally
 
 1. Download the notebook:  
-   `PEFT_GPT2_Chatbot_CLEAN.ipynb` from this repository.
+   `PEFT_GPT2_Hybrid.ipynb` from this repository.
 
 2. Install required packages:
    ```
@@ -86,3 +82,5 @@ While inspired by these works, this project reimplements both methods independen
 ## Acknowledgements
 
 This project was completed as part of a graduate-level Artificial Intelligence course (ECE 57000, Spring 2025). It leverages the Hugging Face Transformers, Datasets, and Evaluate libraries to support model training and evaluation.
+
+Some text descriptions, explanations, and documentation were refined for clarity and formatting with the assistance of a large language model (LLM). The author conducted all conceptual work, implementation, and analysis independently.
