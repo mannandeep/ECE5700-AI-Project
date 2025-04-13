@@ -69,7 +69,9 @@ This implementation is based on the following foundational research papers:
 
 1. **Prefix-Tuning: Optimizing Continuous Prompts for Generation**  
    - Xiang Lisa Li, Percy Liang (ACL 2021)  
-   - [Paper](https://arxiv.org/abs/2101.00190) | [Code](https://github.com/xiaoxuan520/prefix-tuning)
+   - [Paper](https://arxiv.org/abs/2101.00190)  
+   - Code (archived): [https://github.com/xiaoxuan520/prefix-tuning](https://github.com/xiaoxuan520/prefix-tuning)  
+   > *Note: This code repository may no longer be actively maintained or public.*
 
 2. **LoRA: Low-Rank Adaptation of Large Language Models**  
    - Edward J. Hu et al. (ICLR 2022)  
